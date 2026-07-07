@@ -104,4 +104,66 @@
       "availableRooms": 12
     }
   ]
+  "restaurants": [
+  {
+    "id": 1,
+    "name": "Sea Breeze Restaurant",
+    "city": "Da Nang",
+    "address": "25 Vo Nguyen Giap",
+    "cuisine": "Vietnamese Seafood",
+    "priceRange": "$$",
+    "rating": 4.8,
+    "image": "https://picsum.photos/400/250?random=11",
+    "description": "Fresh seafood with a beautiful beach view.",
+    "openingHours": "09:00 - 22:00"
+  },
+  {
+    "id": 2,
+    "name": "Pho Ha Noi",
+    "city": "Ha Noi",
+    "address": "12 Hang Gai",
+    "cuisine": "Vietnamese",
+    "priceRange": "$",
+    "rating": 4.6,
+    "image": "https://picsum.photos/400/250?random=12",
+    "description": "Traditional Vietnamese Pho.",
+    "openingHours": "06:00 - 21:00"
+  },
+  {
+    "id": 3,
+    "name": "Saigon BBQ",
+    "city": "Ho Chi Minh",
+    "address": "88 Nguyen Hue",
+    "cuisine": "BBQ",
+    "priceRange": "$$$",
+    "rating": 4.7,
+    "image": "https://picsum.photos/400/250?random=13",
+    "description": "Premium grilled meat and seafood buffet.",
+    "openingHours": "10:00 - 23:00"
+  },
+  {
+    "id": 4,
+    "name": "Sushi Sakura",
+    "city": "Nha Trang",
+    "address": "20 Tran Phu",
+    "cuisine": "Japanese",
+    "priceRange": "$$$",
+    "rating": 4.9,
+    "image": "https://picsum.photos/400/250?random=14",
+    "description": "Authentic Japanese sushi and sashimi.",
+    "openingHours": "11:00 - 22:00"
+  },
+  {
+    "id": 5,
+    "name": "Mountain Coffee & Food",
+    "city": "Da Lat",
+    "address": "15 Xuan Huong",
+    "cuisine": "Cafe & Western",
+    "priceRange": "$$",
+    "rating": 4.5,
+    "image": "https://picsum.photos/400/250?random=15",
+    "description": "Coffee shop with breakfast and mountain view.",
+    "openingHours": "07:00 - 22:00"
+  }
+]
 }
