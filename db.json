@@ -2,39 +2,106 @@
   "users": [
     {
       "id": 1,
-      "name": "Nguyen Van An",
-      "email": "nguyenvanan@gmail.com",
-      "phone": "35355454",
-      "avatar": "https://example.com/avatar/an.jpg",
-      "dateOfBirth": "1990-05-15T00:00:00.000Z"
+      "fullName": "Nguyen Van An",
+      "email": "an@gmail.com",
+      "password": "123456",
+      "phone": "0901234567",
+      "avatar": "https://i.pravatar.cc/150?img=1",
+      "role": "customer"
     },
     {
       "id": 2,
-      "name": "Nguyen Xuan Anh",
-      "email": "tranvanan@gmail.com",
-      "phone": "454645",
-      "avatar": "https://example.com/avatar/an.jpg",
-      "dateOfBirth": "1990-05-15T00:00:00.000Z"
+      "fullName": "Tran Thi Binh",
+      "email": "binh@gmail.com",
+      "password": "123456",
+      "phone": "0902345678",
+      "avatar": "https://i.pravatar.cc/150?img=2",
+      "role": "customer"
+    },
+    {
+      "id": 3,
+      "fullName": "Le Van Cuong",
+      "email": "cuong@gmail.com",
+      "password": "123456",
+      "phone": "0903456789",
+      "avatar": "https://i.pravatar.cc/150?img=3",
+      "role": "admin"
+    },
+    {
+      "id": 4,
+      "fullName": "Pham Thi Dao",
+      "email": "dao@gmail.com",
+      "password": "123456",
+      "phone": "0904567890",
+      "avatar": "https://i.pravatar.cc/150?img=4",
+      "role": "customer"
+    },
+    {
+      "id": 5,
+      "fullName": "Hoang Minh Duc",
+      "email": "duc@gmail.com",
+      "password": "123456",
+      "phone": "0905678901",
+      "avatar": "https://i.pravatar.cc/150?img=5",
+      "role": "customer"
     }
   ],
-  "accounts": [
+
+  "hotels": [
     {
       "id": 1,
-      "userId": 1,
-      "username": "nguyenvanan",
-      "password": "An?123456",
-      "status": "active",
-      "lastLogin": "2023-04-02T08:15:30.000Z",
-      "createdAt": "1990-05-15T00:00:00.000Z"
+      "name": "Sunrise Hotel",
+      "city": "Da Nang",
+      "address": "123 Vo Nguyen Giap",
+      "price": 1200000,
+      "rating": 4.8,
+      "image": "https://picsum.photos/400/250?random=1",
+      "description": "Luxury hotel near My Khe beach.",
+      "availableRooms": 15
     },
     {
       "id": 2,
-      "userId": 2,
-      "username": "tranthibinh",
-      "password": "Binh@123456",
-      "status": "active",
-      "lastLogin": "2023-04-06T14:22:10.000Z",
-      "createdAt": "2023-07-22T08:00:00.000Z"
+      "name": "Golden Beach Resort",
+      "city": "Nha Trang",
+      "address": "45 Tran Phu",
+      "price": 1800000,
+      "rating": 4.9,
+      "image": "https://picsum.photos/400/250?random=2",
+      "description": "Five-star resort with ocean view.",
+      "availableRooms": 8
+    },
+    {
+      "id": 3,
+      "name": "Sapa Mountain View",
+      "city": "Lao Cai",
+      "address": "12 Fansipan",
+      "price": 950000,
+      "rating": 4.6,
+      "image": "https://picsum.photos/400/250?random=3",
+      "description": "Beautiful mountain scenery.",
+      "availableRooms": 20
+    },
+    {
+      "id": 4,
+      "name": "Saigon Center Hotel",
+      "city": "Ho Chi Minh",
+      "address": "89 Nguyen Hue",
+      "price": 1500000,
+      "rating": 4.7,
+      "image": "https://picsum.photos/400/250?random=4",
+      "description": "Located in the city center.",
+      "availableRooms": 10
+    },
+    {
+      "id": 5,
+      "name": "Ha Noi Lake Hotel",
+      "city": "Ha Noi",
+      "address": "25 Hoan Kiem",
+      "price": 1300000,
+      "rating": 4.5,
+      "image": "https://picsum.photos/400/250?random=5",
+      "description": "Near Hoan Kiem Lake.",
+      "availableRooms": 12
     }
   ]
 }
