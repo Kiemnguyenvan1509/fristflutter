@@ -1,36 +1,74 @@
 {
-  "accounts": [
+  "users": [
     {
       "id": 1,
-      "userId": 101,
-      "username": "admin",
-      "password": "123456",
-      "status": "active",
-      "lastLogin": "2026-07-10T10:30:00.000Z"
+      "userId": 1001,
+      "username": "nguyenvana",
+      "status": "Active",
+      "lastLogin": "2026-07-10 08:30:15"
     },
     {
       "id": 2,
-      "userId": 102,
-      "username": "user1",
-      "password": "123456",
-      "status": "active",
-      "lastLogin": null
+      "userId": 1002,
+      "username": "tranthib",
+      "status": "Inactive",
+      "lastLogin": "2026-07-05 14:20:40"
     },
     {
       "id": 3,
-      "userId": 103,
-      "username": "user2",
-      "password": "123456",
-      "status": "inactive",
-      "lastLogin": "2026-06-01T08:00:00.000Z"
+      "userId": 1003,
+      "username": "levanhieu",
+      "status": "Active",
+      "lastLogin": "2026-07-11 07:10:25"
     },
     {
       "id": 4,
-      "userId": 175,
-      "username": "kiem",
-      "password": "123456",
-      "status": "inactive",
-      "lastLogin": "2026-06-01T08:00:00.000Z"
+      "userId": 1004,
+      "username": "phamminhduc",
+      "status": "Locked",
+      "lastLogin": "2026-06-28 18:45:10"
+    },
+    {
+      "id": 5,
+      "userId": 1005,
+      "username": "hoangthuy",
+      "status": "Active",
+      "lastLogin": "2026-07-09 09:55:30"
+    },
+    {
+      "id": 6,
+      "userId": 1006,
+      "username": "vominhquan",
+      "status": "Inactive",
+      "lastLogin": "2026-07-03 16:12:05"
+    },
+    {
+      "id": 7,
+      "userId": 1007,
+      "username": "dangthanh",
+      "status": "Active",
+      "lastLogin": "2026-07-11 06:40:12"
+    },
+    {
+      "id": 8,
+      "userId": 1008,
+      "username": "ngocanh",
+      "status": "Locked",
+      "lastLogin": null
+    },
+    {
+      "id": 9,
+      "userId": 1009,
+      "username": "buitrung",
+      "status": "Active",
+      "lastLogin": "2026-07-08 20:18:44"
+    },
+    {
+      "id": 10,
+      "userId": 1010,
+      "username": "phamhuong",
+      "status": "Active",
+      "lastLogin": "2026-07-10 12:05:18"
     }
   ]
 }
