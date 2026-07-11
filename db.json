@@ -1,74 +1,96 @@
+```json
 {
   "users": [
     {
       "id": 1,
       "userId": 1001,
-      "username": "nguyenvana",
+      "name": "Nguyen Van A",
+      "email": "nguyenvana@gmail.com",
       "status": "Active",
-      "lastLogin": "2026-07-10 08:30:15"
+      "lastLogin": "2026-07-11 08:30:15",
+      "avatar": "https://i.pravatar.cc/150?img=1"
     },
     {
       "id": 2,
       "userId": 1002,
-      "username": "tranthib",
+      "name": "Tran Thi B",
+      "email": "tranthib@gmail.com",
       "status": "Inactive",
-      "lastLogin": "2026-07-05 14:20:40"
+      "lastLogin": "2026-07-09 14:15:22",
+      "avatar": "https://i.pravatar.cc/150?img=2"
     },
     {
       "id": 3,
       "userId": 1003,
-      "username": "levanhieu",
+      "name": "Le Van C",
+      "email": "levanc@gmail.com",
       "status": "Active",
-      "lastLogin": "2026-07-11 07:10:25"
+      "lastLogin": "2026-07-10 20:45:11",
+      "avatar": "https://i.pravatar.cc/150?img=3"
     },
     {
       "id": 4,
       "userId": 1004,
-      "username": "phamminhduc",
+      "name": "Pham Thi D",
+      "email": "phamthid@gmail.com",
       "status": "Locked",
-      "lastLogin": "2026-06-28 18:45:10"
+      "lastLogin": "2026-07-08 18:22:39",
+      "avatar": "https://i.pravatar.cc/150?img=4"
     },
     {
       "id": 5,
       "userId": 1005,
-      "username": "hoangthuy",
+      "name": "Hoang Van E",
+      "email": "hoangvane@gmail.com",
       "status": "Active",
-      "lastLogin": "2026-07-09 09:55:30"
+      "lastLogin": "2026-07-11 09:10:05",
+      "avatar": "https://i.pravatar.cc/150?img=5"
     },
     {
       "id": 6,
       "userId": 1006,
-      "username": "vominhquan",
+      "name": "Vo Thi F",
+      "email": "vothif@gmail.com",
       "status": "Inactive",
-      "lastLogin": "2026-07-03 16:12:05"
+      "lastLogin": "2026-07-05 16:40:17",
+      "avatar": "https://i.pravatar.cc/150?img=6"
     },
     {
       "id": 7,
       "userId": 1007,
-      "username": "dangthanh",
+      "name": "Dang Minh G",
+      "email": "dangminhg@gmail.com",
       "status": "Active",
-      "lastLogin": "2026-07-11 06:40:12"
+      "lastLogin": "2026-07-11 07:55:43",
+      "avatar": "https://i.pravatar.cc/150?img=7"
     },
     {
       "id": 8,
       "userId": 1008,
-      "username": "ngocanh",
-      "status": "Locked",
-      "lastLogin": null
+      "name": "Bui Ngoc H",
+      "email": "buingoch@gmail.com",
+      "status": "Pending",
+      "lastLogin": null,
+      "avatar": "https://i.pravatar.cc/150?img=8"
     },
     {
       "id": 9,
       "userId": 1009,
-      "username": "buitrung",
+      "name": "Do Thanh I",
+      "email": "dothanhi@gmail.com",
       "status": "Active",
-      "lastLogin": "2026-07-08 20:18:44"
+      "lastLogin": "2026-07-10 12:33:56",
+      "avatar": "https://i.pravatar.cc/150?img=9"
     },
     {
       "id": 10,
       "userId": 1010,
-      "username": "phamhuong",
-      "status": "Active",
-      "lastLogin": "2026-07-10 12:05:18"
+      "name": "Nguyen Thi K",
+      "email": "nguyenthik@gmail.com",
+      "status": "Inactive",
+      "lastLogin": "2026-07-06 10:05:28",
+      "avatar": "https://i.pravatar.cc/150?img=10"
     }
   ]
 }
+```
