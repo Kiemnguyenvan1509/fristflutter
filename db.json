@@ -1,1 +1,96 @@
-{ "users": [ { "id": 1, "userId": 1001, "name": "Nguyen Van A", "email": "nguyenvana@gmail.com", "status": "Active", "lastLogin": "2026-07-11 08:30:15", "avatar": "https://i.pravatar.cc/150?img=1" }, { "id": 2, "userId": 1002, "name": "Tran Thi B", "email": "tranthib@gmail.com", "status": "Inactive", "lastLogin": "2026-07-09 14:15:22", "avatar": "https://i.pravatar.cc/150?img=2" }, { "id": 3, "userId": 1003, "name": "Le Van C", "email": "levanc@gmail.com", "status": "Active", "lastLogin": "2026-07-10 20:45:11", "avatar": "https://i.pravatar.cc/150?img=3" }, { "id": 4, "userId": 1004, "name": "Pham Thi D", "email": "phamthid@gmail.com", "status": "Locked", "lastLogin": "2026-07-08 18:22:39", "avatar": "https://i.pravatar.cc/150?img=4" }, { "id": 5, "userId": 1005, "name": "Hoang Van E", "email": "hoangvane@gmail.com", "status": "Active", "lastLogin": "2026-07-11 09:10:05", "avatar": "https://i.pravatar.cc/150?img=5" }, { "id": 6, "userId": 1006, "name": "Vo Thi F", "email": "vothif@gmail.com", "status": "Inactive", "lastLogin": "2026-07-05 16:40:17", "avatar": "https://i.pravatar.cc/150?img=6" }, { "id": 7, "userId": 1007, "name": "Dang Minh G", "email": "dangminhg@gmail.com", "status": "Active", "lastLogin": "2026-07-11 07:55:43", "avatar": "https://i.pravatar.cc/150?img=7" }, { "id": 8, "userId": 1008, "name": "Bui Ngoc H", "email": "buingoch@gmail.com", "status": "Pending", "lastLogin": null, "avatar": "https://i.pravatar.cc/150?img=8" }, { "id": 9, "userId": 1009, "name": "Do Thanh I", "email": "dothanhi@gmail.com", "status": "Active", "lastLogin": "2026-07-10 12:33:56", "avatar": "https://i.pravatar.cc/150?img=9" }, { "id": 10, "userId": 1010, "name": "Nguyen Thi K", "email": "nguyenthik@gmail.com", "status": "Inactive", "lastLogin": "2026-07-06 10:05:28", "avatar": "https://i.pravatar.cc/150?img=10" } ] }
+
+{
+  "users": [
+    {
+      "id": 1,
+      "userId": 1001,
+      "name": "Nguyen Van A",
+      "email": "nguyenvana@gmail.com",
+      "status": "Active",
+      "lastLogin": "2026-07-11 08:30:15",
+      "avatar": "https://i.pravatar.cc/150?img=1"
+    },
+    {
+      "id": 2,
+      "userId": 1002,
+      "name": "Tran Thi B",
+      "email": "tranthib@gmail.com",
+      "status": "Inactive",
+      "lastLogin": "2026-07-09 14:15:22",
+      "avatar": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 3,
+      "userId": 1003,
+      "name": "Le Van C",
+      "email": "levanc@gmail.com",
+      "status": "Active",
+      "lastLogin": "2026-07-10 20:45:11",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "id": 4,
+      "userId": 1004,
+      "name": "Pham Thi D",
+      "email": "phamthid@gmail.com",
+      "status": "Locked",
+      "lastLogin": "2026-07-08 18:22:39",
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 5,
+      "userId": 1005,
+      "name": "Hoang Van E",
+      "email": "hoangvane@gmail.com",
+      "status": "Active",
+      "lastLogin": "2026-07-11 09:10:05",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": 6,
+      "userId": 1006,
+      "name": "Vo Thi F",
+      "email": "vothif@gmail.com",
+      "status": "Inactive",
+      "lastLogin": "2026-07-05 16:40:17",
+      "avatar": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": 7,
+      "userId": 1007,
+      "name": "Dang Minh G",
+      "email": "dangminhg@gmail.com",
+      "status": "Active",
+      "lastLogin": "2026-07-11 07:55:43",
+      "avatar": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": 8,
+      "userId": 1008,
+      "name": "Bui Ngoc H",
+      "email": "buingoch@gmail.com",
+      "status": "Pending",
+      "lastLogin": null,
+      "avatar": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": 9,
+      "userId": 1009,
+      "name": "Do Thanh I",
+      "email": "dothanhi@gmail.com",
+      "status": "Active",
+      "lastLogin": "2026-07-10 12:33:56",
+      "avatar": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": 10,
+      "userId": 1010,
+      "name": "Nguyen Thi K",
+      "email": "nguyenthik@gmail.com",
+      "status": "Inactive",
+      "lastLogin": "2026-07-06 10:05:28",
+      "avatar": "https://i.pravatar.cc/150?img=10"
+    }
+  ]
+}
+
